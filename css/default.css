@@ -25,7 +25,9 @@ body{
   color: black;
 }
 #gnav a{
-  background: lightgreen;
+  display: block;
+  padding:10px 0;
+  background: darkgreen;
   color: black;
   text-align: center;
   text-decoration: none;
