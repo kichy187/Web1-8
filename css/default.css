@@ -44,6 +44,8 @@ body{
   overflow: hidden;
 }
 #logo li{
+  display: table-cell;
+  vertical-align: middle;
   float: left;
   list-style-type: none;
 }
