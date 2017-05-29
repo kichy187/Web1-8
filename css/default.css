@@ -47,10 +47,10 @@ body{
   padding:10px 5px;
 }
 div.img#home{ background-position: 0 0px;}
-div.img#con1{ background-position: 0 0px;}
-div.img#con2{ background-position: 0 0px;}
-div.img#story{ background-position: 0 -148px;}
-div.img#help{ background-position: 0 157px;}
+div.img#con1{ background-position: 0 -127px;}
+div.img#con2{ background-position: 0 -318px;}
+div.img#story{ background-position: 0 -575px;}
+div.img#help{ background-position: 0 -446px;}
 #gnav a.selected{
   background: white;
   color: darkgreen;
