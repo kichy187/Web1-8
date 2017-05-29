@@ -22,6 +22,12 @@ body{
 #gnav a{
   background: lightgreen;
   color: black;
+  text-align: center;
+  text-decoration: none;
+  color:white;
+}
+#gnav after{
+  clear: both;
 }
 #gnav div.img{
   display: table-cell;
