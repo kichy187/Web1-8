@@ -17,7 +17,12 @@ body{
   padding:10px 0;
   text-align: center;
   text-decoration: none;
+  background:darkgreen;
   color: white;
+}
+#gnav a: hover{
+  background: lightgreenp;
+  color: black;
 }
 #gnav a{
   background: lightgreen;
