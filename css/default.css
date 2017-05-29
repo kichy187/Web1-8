@@ -12,6 +12,17 @@ body{
 .breadcrumbs li:first-child:before{
   content:"";
 }
+#gnav a{
+  display: block;
+  padding:10px 0;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+#gnav a{
+  background: lightgreen;
+  color: black;
+}
 #gnav ul{
   overflow: hidden;
 }
