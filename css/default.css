@@ -23,6 +23,11 @@ body{
   background: lightgreen;
   color: black;
 }
+#gnav a.selected{
+  background: white;
+  color: darkgreen;
+  font-weight: bold;
+}
 #gnav ul{
   overflow: hidden;
 }
