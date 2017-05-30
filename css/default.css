@@ -20,7 +20,7 @@ body{
   background:darkgreen;
   color: white;
 }
-#gnav a: hover {
+#gnav a:hover {
   background: lightgreen;
   color: black;
 }
